@@ -11,6 +11,6 @@ Type this to run the program.
 
 ## JavaDoc
 
-[Auto-generated javadocs (by maven plugin) are on github pages.](...)
+[Auto-generated javadocs (by maven plugin) are on github pages.](https://kartoffelquadrat.github.io/JavaFxHelloWorld/)
 
 
