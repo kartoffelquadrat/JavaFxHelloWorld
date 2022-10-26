@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"eu.kartoffelquadrat.javafxhelloworld","l":"Launcher"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"eu.kartoffelquadrat.javafxhelloworld","l":"Launcher"},{"p":"eu.kartoffelquadrat.javafxhelloworld","l":"SuperLauncher"}]

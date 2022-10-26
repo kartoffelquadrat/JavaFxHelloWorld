@@ -5,9 +5,16 @@
 
 ## Run
 
-Type this to run the program.
+Type this to run the program:  
+```
+mvn clean javafx:run
+```
 
-```mvn clean javafx:run```
+Or create a self contained JAR for later launch:  
+```
+mvn clean package
+java -jar target/javafxhelloworld.jar
+```
 
 ## JavaDoc
 
