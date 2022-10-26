@@ -1,6 +1,6 @@
 # Java FX Hello World
 
- * Following [this tutorial](javafx-maven-plugi) for JavaFX maven dependencies. (updated versions, the ones on webpage were outdated)
+ * Following [this tutorial](https://openjfx.io/openjfx-docs/maven) for JavaFX maven dependencies. (updated versions, the ones on webpage were outdated)
  * Using [this template as ```hello world``` launcher class](https://github.com/openjfx/samples/blob/master/HelloFX/Maven/hellofx/src/main/java/HelloFX.java).
 
 ## Run
