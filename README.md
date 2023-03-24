@@ -18,6 +18,6 @@ java -jar target/javafxhelloworld.jar
 
 ## JavaDoc
 
-[Auto-generated javadocs (by maven plugin) are on github pages.](https://kartoffelquadrat.github.io/JavaFxHelloWorld/)
+[Auto-generated javadocs (by maven plugin) are on github pages.](https://m5c.github.io/JavaFxHelloWorld/)
 
 
