@@ -1,7 +1,14 @@
 # Java FX Hello World
 
- * Following [this tutorial](https://openjfx.io/openjfx-docs/maven) for JavaFX maven dependencies. (updated versions, the ones on webpage were outdated)
- * Using [this template as ```hello world``` launcher class](https://github.com/openjfx/samples/blob/master/HelloFX/Maven/hellofx/src/main/java/HelloFX.java).
+This is a minimal Hello World JavaFX project to demonstrate build to a standalone JAR file.
+
+## References
+
+The code is this repo is based on several sources:
+
+ * This [JavaFX maven tutorial](https://openjfx.io/openjfx-docs/maven) for JavaFX maven dependencies. (updated versions, the ones on webpage were outdated)
+ * This [template as ```hello world``` launcher class](https://github.com/openjfx/samples/blob/master/HelloFX/Maven/hellofx/src/main/java/HelloFX.java).
+ * This [packaging trick](https://stackoverflow.com/a/57691362/13805480) (super launcher + maven shade plugin) to obtain a standalone JAR file.
 
 ## Run
 
